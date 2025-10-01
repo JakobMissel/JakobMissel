@@ -1,7 +1,11 @@
 # Hello, I am Jakob Winkel Missel
 
 ---
-<p style="text-align:center">MCs. Medialogy</p>
+<center>
+ GUGUGUGU
+</center>
+
+#center
  
 
 Aalborg University Copenhagen
