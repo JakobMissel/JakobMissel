@@ -47,5 +47,4 @@
 
 <h1 align="center">Contact Details:</h1>
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://discord.com/users/.nira."><img src="https://img.shields.io/badge/Discord-YourTag-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://discord.com/users/.nira."><img src="https://img.shields.io/badge/Discord-.nira.-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
