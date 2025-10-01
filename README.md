@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I am Jakob Winkel Missel
 
-<!--
-**JakobMissel/JakobMissel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+MCs. Medialogy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aalborg University Copenhagen
+
+Sep. 2025 - Present
+
+BSc. Medialogy
+Aalborg University Copenhagen
+Sep. 2022 - June 2025
