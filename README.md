@@ -1,15 +1,7 @@
-# Hello, I am Jakob Winkel Missel
+<h3 style="text-align:center;">Hello, I am Jakob Winkel Missel</h3>
 
----
-<center>
- GUGUGUGU
-</center>
-
-#center
- 
-
+<center>This text is centered.</center>
 Aalborg University Copenhagen
-
 Sep. 2025 - Present
 
 BSc. Medialogy
