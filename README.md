@@ -1,6 +1,6 @@
 <h1 align="center">About Me:</h1>
 
-N/A
+<p align="center">N/A</p>
 
 ---
 
@@ -29,7 +29,7 @@ N/A
 
 <h1 align="center">Interests:</h1>
 
-N/A
+<p align="center">N/A</p>
 
 ---
 
