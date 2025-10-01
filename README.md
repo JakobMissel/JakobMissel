@@ -27,9 +27,7 @@
 
 ---
 
-<h1 align="center">Interests:</h1>
-
-<p align="center">N/A</p>
+<h1 align="center">Projects:</h1>
 
 ---
 
