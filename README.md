@@ -10,19 +10,19 @@ Hello! I am passionate about game development and research. In development, I am
 
 <table align="center">
   <tr>
-    <td align="center" style="border:2px solid #4CAF50;border-radius:8px;padding:10px;">
+    <td style="border:2px solid #4CAF50; border-radius:8px; padding:10px; text-align: justify;">
       <strong style="font-size:1.3rem;">MSc. Medialogy</strong><br/>
       <em>Aalborg University (Copenhagen)</em><br/>
       Sep. 2025 – Present<br/>
       Denmark
     </td>
-    <td align="center" style="padding:10px;">
+    <td style="padding:10px; text-align: justify;">
       <strong>BSc. Medialogy</strong><br/>
       <em>Aalborg University (Copenhagen)</em><br/>
       Sep. 2022 – June 2025<br/>
       Denmark
     </td>
-    <td align="center" style="padding:10px;">
+    <td style="padding:10px; text-align: justify;">
       <strong>High School: Biology A & Psychology B</strong><br/>
       <em>Espergærde Gymnasium</em><br/>
       Aug. 2016 – June 2019<br/>
