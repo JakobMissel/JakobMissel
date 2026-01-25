@@ -31,9 +31,8 @@
 
 <table align="center">
   <tr>
-    <!-- LEFT: The Burglary At The -->
     <td align="center">
-      <strong>The Burglary At The</strong><br/>
+      <strong>The Burglary At The Museé d'Art Moderne de Paris</strong><br/>
       <a href="https://beckudrup.itch.io/theburglaryatthe">
         <img width="256" height="144"
           src="https://github.com/user-attachments/assets/a3b8e13b-54f0-493e-a9fe-3bc47ed61ac5"
@@ -41,7 +40,7 @@
       </a>
     </td>
     <td align="center">
-      <strong>Arm Bot</strong><br/>
+      <strong>Arm Bot Adventure</strong><br/>
       <a href="https://deadpiegamer.itch.io/arm-bot">
         <img width="256" height="144"
           src="https://github.com/user-attachments/assets/fd1c1762-e636-4c96-8937-40d0a6ce3751"
@@ -58,6 +57,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
