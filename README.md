@@ -32,7 +32,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <strong>The Burglary At The Museé d'Art Moderne De Paris</strong><br/>
+      <strong>The Burglary at the Museé d'Art Moderne de Paris</strong><br/>
       <a href="https://beckudrup.itch.io/theburglaryatthe">
         <img width="256" height="144"
           src="https://github.com/user-attachments/assets/fd1c1762-e636-4c96-8937-40d0a6ce3751"
@@ -48,7 +48,7 @@
       </a>
     </td>
     <td align="center">
-      <strong>Killer On Board</strong><br/>
+      <strong>Killer on Board</strong><br/>
       <a href="https://deadpiegamer.itch.io/killer-on-board">
         <img width="256" height="144"
           src="https://github.com/user-attachments/assets/920ab101-885a-43bc-8319-4fee908c2776"
