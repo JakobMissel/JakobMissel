@@ -8,21 +8,19 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <strong>MSc. Medialogy</strong><br/>
+    <td align="center" style="border:2px solid #4CAF50;border-radius:8px;padding:10px;">
+      <strong style="font-size:1.3rem;">MSc. Medialogy</strong><br/>
       <em>Aalborg University (Copenhagen)</em><br/>
       Sep. 2025 – Present<br/>
       Denmark
     </td>
-    <td align="center" width="50%">
+    <td align="center" style="padding:10px;">
       <strong>BSc. Medialogy</strong><br/>
       <em>Aalborg University (Copenhagen)</em><br/>
       Sep. 2022 – June 2025<br/>
       Denmark
     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
+    <td align="center" style="padding:10px;">
       <strong>High School: Biology A & Psychology B</strong><br/>
       <em>Espergærde Gymnasium</em><br/>
       Aug. 2016 – June 2019<br/>
