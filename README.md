@@ -29,28 +29,37 @@
 
 <h1 align="center">Projects</h1>
 
-<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;max-width:650px;margin:auto;">
-  <div style="width:48%;text-align:center;font-size:1.2rem;">
-    <strong>The Burglary at the Museé d'Art Moderne de Paris</strong><br/>
-    <a href="https://beckudrup.itch.io/theburglaryatthe">
-      <img src="https://github.com/user-attachments/assets/fd1c1762-e636-4c96-8937-40d0a6ce3751" style="width:100%;height:auto;border-radius:8px;margin-top:5px;" alt="The Burglary"/>
-    </a>
-  </div>
-
-  <div style="width:48%;text-align:center;font-size:1.2rem;">
-    <strong>A.R.M. Bot Adventure</strong><br/>
-    <a href="https://deadpiegamer.itch.io/arm-bot">
-      <img src="https://github.com/user-attachments/assets/a3b8e13b-54f0-493e-a9fe-3bc47ed61ac5" style="width:100%;height:auto;border-radius:8px;margin-top:5px;" alt="A.R.M. Bot Adventure"/>
-    </a>
-  </div>
-
-  <div style="width:48%;text-align:center;font-size:1.2rem;">
-    <strong>Killer on Board</strong><br/>
-    <a href="https://deadpiegamer.itch.io/killer-on-board">
-      <img src="https://github.com/user-attachments/assets/920ab101-885a-43bc-8319-4fee908c2776" style="width:100%;height:auto;border-radius:8px;margin-top:5px;" alt="Killer On Board"/>
-    </a>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong style="font-size:1.2rem;">The Burglary at the Museé d'Art Moderne de Paris</strong><br/>
+      <a href="https://beckudrup.itch.io/theburglaryatthe">
+        <img src="https://github.com/user-attachments/assets/fd1c1762-e636-4c96-8937-40d0a6ce3751" 
+             style="width:90%;height:auto;border-radius:8px;margin-top:5px;" 
+             alt="The Burglary"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <strong style="font-size:1.2rem;">A.R.M. Bot Adventure</strong><br/>
+      <a href="https://deadpiegamer.itch.io/arm-bot">
+        <img src="https://github.com/user-attachments/assets/a3b8e13b-54f0-493e-a9fe-3bc47ed61ac5" 
+             style="width:90%;height:auto;border-radius:8px;margin-top:5px;" 
+             alt="A.R.M. Bot Adventure"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong style="font-size:1.2rem;">Killer on Board</strong><br/>
+      <a href="https://deadpiegamer.itch.io/killer-on-board">
+        <img src="https://github.com/user-attachments/assets/920ab101-885a-43bc-8319-4fee908c2776" 
+             style="width:90%;height:auto;border-radius:8px;margin-top:5px;" 
+             alt="Killer On Board"/>
+      </a>
+    </td>
+    <td></td> <!-- Empty cell to keep layout 2 per row -->
+  </tr>
+</table>
 
 ---
 
