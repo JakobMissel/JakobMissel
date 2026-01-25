@@ -1,4 +1,4 @@
-<h1 align="center">About Me:</h1>
+<h1 align="center">About Me</h1>
 
 Hello, I am Jakob Winkel Missel, currently a Master’s student in Medialogy with a passion for game development and research.
 Regarding development, I am particularly passionate about designing game levels that cohesively balance aesthetics and interactivity within 3D virtual environments.
