@@ -1,6 +1,8 @@
 <h1 align="center">About Me</h1>
 
+<div align="justify">
 Hello! I am passionate about game development and research. In development, I am particularly passionate about 3D graphics and designing game levels that cohesively balance aesthetics and interactivity. In research, I explore and develop interactive systems that apply novel approaches to improve player experiences.
+</div>
 
 ---
 
