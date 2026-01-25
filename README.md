@@ -14,6 +14,7 @@
 *Denmark*  
 
 **BSc. Medialogy**
+
 *Aalborg University (Copenhagen)*  
 *Sep. 2022* – *June 2025*  
 *Denmark*  
