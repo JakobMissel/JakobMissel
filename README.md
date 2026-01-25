@@ -69,7 +69,7 @@ In research, I explore and develop interactive systems that apply novel approach
 
 ---
 
-<h1 align="center">Skills:</h1>
+<h1 align="center">Skills</h1>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity" height="50" alt="Unity"/>
   <img src="https://github.com/user-attachments/assets/84c4f7a9-1f89-4499-b56c-b72d94084fc6" height="50" alt="Blender"/>
@@ -81,6 +81,13 @@ In research, I explore and develop interactive systems that apply novel approach
 
 ---
 
-<h1 align="center">Contact Details:</h1>
+  <h1 align="center">Contact Details</h1>
 <p align="center">
-  <a href="https://discord.com/users/.nira."><img src="https://img.shields.io/badge/Discord-.nira.-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://discord.com/users/.nira.">
+    <img src="https://img.shields.io/badge/Discord-.nira.-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+<p align="center">
+  Contact me at: <a href="mailto:your-email@example.com">your-email@example.com</a>
+</p>
