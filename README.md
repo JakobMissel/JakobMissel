@@ -27,15 +27,48 @@
 
 ---
 
-<h1 align="center">Projects:</h1>
-<p align="center">
-  https://deadpiegamer.itch.io/arm-bot
-  <img width="256" height="144" alt="image" src="https://github.com/user-attachments/assets/fd1c1762-e636-4c96-8937-40d0a6ce3751" />
-  https://beckudrup.itch.io/theburglaryatthe
-  <img width="256" height="144" alt="image" src="https://github.com/user-attachments/assets/a3b8e13b-54f0-493e-a9fe-3bc47ed61ac5" />
-  https://deadpiegamer.itch.io/killer-on-board
-  <img width="256" height="144" alt="image" src="https://github.com/user-attachments/assets/920ab101-885a-43bc-8319-4fee908c2776" />
-</p>
+<h1 align="center">Projects</h1>
+
+<div align="center">
+
+  <h3>
+    <a href="https://deadpiegamer.itch.io/arm-bot" target="_blank">
+      Arm Bot
+    </a>
+  </h3>
+  <a href="https://deadpiegamer.itch.io/arm-bot" target="_blank">
+    <img width="512" height="288"
+      src="https://github.com/user-attachments/assets/fd1c1762-e636-4c96-8937-40d0a6ce3751"
+      alt="Arm Bot screenshot" />
+  </a>
+
+  <br/><br/>
+
+  <h3>
+    <a href="https://beckudrup.itch.io/theburglaryatthe" target="_blank">
+      The Burglary At The
+    </a>
+  </h3>
+  <a href="https://beckudrup.itch.io/theburglaryatthe" target="_blank">
+    <img width="512" height="288"
+      src="https://github.com/user-attachments/assets/a3b8e13b-54f0-493e-a9fe-3bc47ed61ac5"
+      alt="The Burglary At The screenshot" />
+  </a>
+
+  <br/><br/>
+
+  <h3>
+    <a href="https://deadpiegamer.itch.io/killer-on-board" target="_blank">
+      Killer On Board
+    </a>
+  </h3>
+  <a href="https://deadpiegamer.itch.io/killer-on-board" target="_blank">
+    <img width="512" height="288"
+      src="https://github.com/user-attachments/assets/920ab101-885a-43bc-8319-4fee908c2776"
+      alt="Killer On Board screenshot" />
+  </a>
+
+</div>
 
 ---
 
