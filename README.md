@@ -40,11 +40,11 @@
       </a>
     </td>
     <td align="center">
-      <strong>Arm Bot Adventure</strong><br/>
+      <strong>A.R.M. Bot Adventure</strong><br/>
       <a href="https://deadpiegamer.itch.io/arm-bot">
         <img width="256" height="144"
           src="https://github.com/user-attachments/assets/a3b8e13b-54f0-493e-a9fe-3bc47ed61ac5"
-          alt="Arm Bot Adventure" />
+          alt="A.R.M. Bot Adventure" />
       </a>
     </td>
     <td align="center">
