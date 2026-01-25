@@ -29,26 +29,26 @@
 
 <h1 align="center">Projects</h1>
 
-<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;">
-  <div style="flex:1 1 45%;max-width:300px;text-align:center;font-size:1.2rem;">
+<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;max-width:650px;margin:auto;">
+  <div style="width:48%;text-align:center;font-size:1.2rem;">
+    <strong>The Burglary at the Museé d'Art Moderne de Paris</strong><br/>
     <a href="https://beckudrup.itch.io/theburglaryatthe">
-      <img src="https://github.com/user-attachments/assets/fd1c1762-e636-4c96-8937-40d0a6ce3751" style="width:100%;height:auto;border-radius:8px;margin-bottom:10px;" alt="The Burglary At The Museé d'Art Moderne De Paris"/>
+      <img src="https://github.com/user-attachments/assets/fd1c1762-e636-4c96-8937-40d0a6ce3751" style="width:100%;height:auto;border-radius:8px;margin-top:5px;" alt="The Burglary"/>
     </a>
-    <strong>The Burglary at the Museé d'Art Moderne de Paris</strong>
   </div>
 
-  <div style="flex:1 1 45%;max-width:300px;text-align:center;font-size:1.2rem;">
+  <div style="width:48%;text-align:center;font-size:1.2rem;">
+    <strong>A.R.M. Bot Adventure</strong><br/>
     <a href="https://deadpiegamer.itch.io/arm-bot">
-      <img src="https://github.com/user-attachments/assets/a3b8e13b-54f0-493e-a9fe-3bc47ed61ac5" style="width:100%;height:auto;border-radius:8px;margin-bottom:10px;" alt="A.R.M. Bot Adventure"/>
+      <img src="https://github.com/user-attachments/assets/a3b8e13b-54f0-493e-a9fe-3bc47ed61ac5" style="width:100%;height:auto;border-radius:8px;margin-top:5px;" alt="A.R.M. Bot Adventure"/>
     </a>
-    <strong>A.R.M. Bot Adventure</strong>
   </div>
 
-  <div style="flex:1 1 45%;max-width:300px;text-align:center;font-size:1.2rem;">
+  <div style="width:48%;text-align:center;font-size:1.2rem;">
+    <strong>Killer on Board</strong><br/>
     <a href="https://deadpiegamer.itch.io/killer-on-board">
-      <img src="https://github.com/user-attachments/assets/920ab101-885a-43bc-8319-4fee908c2776" style="width:100%;height:auto;border-radius:8px;margin-bottom:10px;" alt="Killer On Board"/>
+      <img src="https://github.com/user-attachments/assets/920ab101-885a-43bc-8319-4fee908c2776" style="width:100%;height:auto;border-radius:8px;margin-top:5px;" alt="Killer On Board"/>
     </a>
-    <strong>Killer On Board</strong>
   </div>
 </div>
 
