@@ -28,6 +28,14 @@
 ---
 
 <h1 align="center">Projects:</h1>
+<p align="center">
+  https://deadpiegamer.itch.io/arm-bot
+  <img width="347" height="169" alt="image" src="https://github.com/user-attachments/assets/fd1c1762-e636-4c96-8937-40d0a6ce3751" />
+  https://beckudrup.itch.io/theburglaryatthe
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a3b8e13b-54f0-493e-a9fe-3bc47ed61ac5" />
+  https://deadpiegamer.itch.io/killer-on-board
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/920ab101-885a-43bc-8319-4fee908c2776" />
+</p>
 
 ---
 
