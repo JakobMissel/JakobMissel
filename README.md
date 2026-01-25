@@ -31,22 +31,25 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <a href="https://deadpiegamer.itch.io/arm-bot">
-        <strong>Arm Bot</strong><br/>
-        <img width="256" height="144"
-          src="https://github.com/user-attachments/assets/fd1c1762-e636-4c96-8937-40d0a6ce3751"
-          alt="Arm Bot Adventure" />
-      </a>
-    </td>
+    <!-- The Burglary At The -->
     <td align="center">
       <a href="https://beckudrup.itch.io/theburglaryatthe">
         <strong>The Burglary At The</strong><br/>
         <img width="256" height="144"
           src="https://github.com/user-attachments/assets/a3b8e13b-54f0-493e-a9fe-3bc47ed61ac5"
-          alt="The Burglary at the Musée d'Art Moderne de Paris" />
+          alt="The Burglary At The" />
       </a>
     </td>
+    <!-- Arm Bot -->
+    <td align="center">
+      <a href="https://deadpiegamer.itch.io/arm-bot">
+        <strong>Arm Bot</strong><br/>
+        <img width="256" height="144"
+          src="https://github.com/user-attachments/assets/fd1c1762-e636-4c96-8937-40d0a6ce3751"
+          alt="Arm Bot" />
+      </a>
+    </td>
+    <!-- Killer On Board -->
     <td align="center">
       <a href="https://deadpiegamer.itch.io/killer-on-board">
         <strong>Killer On Board</strong><br/>
