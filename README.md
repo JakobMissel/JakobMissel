@@ -89,5 +89,5 @@ In research, I explore and develop interactive systems that apply novel approach
 </p>
 
 <p align="center">
-  Contact me at: <a href="mailto:your-email@example.com">your-email@example.com</a>
+  Contact me at: <a href="mailto:jmisse22@student.aau.dk">your-email@example.com</a>
 </p>
