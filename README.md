@@ -6,19 +6,30 @@
 
 <h1 align="center">Education</h1>
 
-<div align="center">
-<strong>MSc. Medialogy</strong><br/>
-<em>Aalborg University (Copenhagen)</em><br/>
-Sep. 2025 – Present<br/>Denmark<br/><br/>
-
-<strong>BSc. Medialogy</strong><br/>
-<em>Aalborg University (Copenhagen)</em><br/>
-Sep. 2022 – June 2025<br/>Denmark<br/><br/>
-
-<strong>High School: Biology A & Psychology B</strong><br/>
-<em>Espergærde Gymnasium</em><br/>
-Aug. 2016 – June 2019<br/>Denmark
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>MSc. Medialogy</strong><br/>
+      <em>Aalborg University (Copenhagen)</em><br/>
+      Sep. 2025 – Present<br/>
+      Denmark
+    </td>
+    <td align="center" width="50%">
+      <strong>BSc. Medialogy</strong><br/>
+      <em>Aalborg University (Copenhagen)</em><br/>
+      Sep. 2022 – June 2025<br/>
+      Denmark
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <strong>High School: Biology A & Psychology B</strong><br/>
+      <em>Espergærde Gymnasium</em><br/>
+      Aug. 2016 – June 2019<br/>
+      Denmark
+    </td>
+  </tr>
+</table>
 
 ---
 
