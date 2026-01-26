@@ -89,5 +89,5 @@ Hello! I am passionate about game development and research. In development, I am
 </p>
 
 <p align="center">
-  Contact me at: <a href="mailto:jmisse22@student.aau.dk">your-email@example.com</a>
+  Contact me at: <a href="mailto:jmisse22@student.aau.dk">jmisse22@student.aau.dk</a>
 </p>
