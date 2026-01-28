@@ -69,6 +69,8 @@ Hello! I am passionate about game development and research. In development, I am
 
 ---
 
+<h1 align="center">Article(s)</h1>
+
 Oudrup, C. B., Krog, F. B., Winkel Missel, J., Abildgaard, L. L., Hansen, M. K., Jensen, N. B., & Schoenau-Fog, H. (2025, December). Killer on Board: Addressing the Narrative Paradox by Utilizing LLM-Driven NPCs. In International Conference on Interactive Digital Storytelling (pp. 158-176). Cham: Springer Nature Switzerland.
 
 ---
