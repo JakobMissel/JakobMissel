@@ -38,7 +38,7 @@ Hello! I am passionate about game development and research. In development, I am
 <table align="center" width="100%">
   
   <tr>
-    <th colspan="2">The Burglary at the Musée d'Art Moderne de Paris</th>
+    <th colspan="2"><h3>The Burglary at the Musée d'Art Moderne de Paris (<a href="https://beckudrup.itch.io/theburglaryatthe">Itch</a> / <a href="https://github.com/JakobMissel/DOAP-Difficulty-Oriented-Action-Planning">Github</a>)</h3></th>
   </tr>
   <tr>
     <td align="center" width="50%">
@@ -49,7 +49,7 @@ Hello! I am passionate about game development and research. In development, I am
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://beckudrup.itch.io/theburglaryatthe">
+      <a href="https://github.com/JakobMissel/DOAP-Difficulty-Oriented-Action-Planning">
         <img
           src="https://github.com/user-attachments/assets/98e729af-3093-4013-b166-fe765cdbb45e"
           style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
@@ -58,7 +58,7 @@ Hello! I am passionate about game development and research. In development, I am
   </tr>
 
   <tr>
-    <th colspan="2">A.R.M. Bot Adventure</th>
+    <th colspan="2"><h3>A.R.M. Bot Adventure (<a href="https://deadpiegamer.itch.io/arm-bot">Itch</a> / <a href="https://github.com/Akaidus/VR-game-pait">Github</a>)</h3></th>
   </tr>
   <tr>
     <td align="center" width="50%">
@@ -67,14 +67,14 @@ Hello! I am passionate about game development and research. In development, I am
            style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
     </td>
     <td align="center" width="50%">
-      <a href="https://deadpiegamer.itch.io/arm-bot">
+      <a href="https://github.com/Akaidus/VR-game-pait">
         <img src="https://github.com/user-attachments/assets/f5220ade-6eba-4c02-af8e-fbde496b4062"
            style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
     </td>
   </tr>
 
   <tr>
-    <th colspan="2">Killer On Boards</th>
+    <th colspan="2"><h3>Killer On Boards (<a href="https://deadpiegamer.itch.io/killer-on-board">Itch</a> / <a href="https://github.com/deadlap/P606">Github</a>)</h3></th>
   </tr>
   <tr>
     <td align="center" width="50%">
@@ -83,22 +83,24 @@ Hello! I am passionate about game development and research. In development, I am
            style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
     </td>
     <td align="center" width="50%">
-      <a href="https://deadpiegamer.itch.io/killer-on-board">
+      <a href="https://github.com/deadlap/P606">
         <img src="https://github.com/user-attachments/assets/539ac01f-c70d-47c9-a961-14fd1462c03e"
            style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
     </td>
   </tr>
 
   <tr>
-    <th colspan="2">FingerSpelling</th>
+    <th colspan="2"><h3>FingerSpelling (<a href="https://github.com/deadlap/P404">Github</a>)</h3></th>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/5cd48bb6-dbaf-4cca-85b0-2912b8768ee9"
+      <a href="https://github.com/deadlap/P404">
+        <img src="https://github.com/user-attachments/assets/5cd48bb6-dbaf-4cca-85b0-2912b8768ee9"
            style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/5c2c554c-e475-4703-8e8f-6f1e65ace138"
+      <a href="https://github.com/deadlap/P404">
+        <img src="https://github.com/user-attachments/assets/5c2c554c-e475-4703-8e8f-6f1e65ace138"
            style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
     </td>
   </tr>
