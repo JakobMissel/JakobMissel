@@ -35,37 +35,78 @@ Hello! I am passionate about game development and research. In development, I am
 
 <h1 align="center">Projects</h1>
 
-<table align="center">
+<table align="center" width="100%">
+  
+  <tr>
+    <th colspan="2">The Burglary at the Musée d'Art Moderne de Paris</th>
+  </tr>
   <tr>
     <td align="center" width="50%">
-      <strong style="font-size:1.2rem;">The Burglary at the Museé d'Art Moderne de Paris</strong><br/>
       <a href="https://beckudrup.itch.io/theburglaryatthe">
-        <img src="https://github.com/user-attachments/assets/fd1c1762-e636-4c96-8937-40d0a6ce3751" 
-             style="width:90%;height:auto;border-radius:8px;margin-top:5px;" 
-             alt="The Burglary"/>
+        <img
+          src="https://github.com/user-attachments/assets/cf0965a6-8fb2-4e3c-82cd-559f1836dc9c"
+          style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
       </a>
     </td>
     <td align="center" width="50%">
-      <strong style="font-size:1.2rem;">A.R.M. Bot Adventure</strong><br/>
-      <a href="https://deadpiegamer.itch.io/arm-bot">
-        <img src="https://github.com/user-attachments/assets/a3b8e13b-54f0-493e-a9fe-3bc47ed61ac5" 
-             style="width:90%;height:auto;border-radius:8px;margin-top:5px;" 
-             alt="A.R.M. Bot Adventure"/>
+      <a href="https://beckudrup.itch.io/theburglaryatthe">
+        <img
+          src="https://github.com/user-attachments/assets/98e729af-3093-4013-b166-fe765cdbb45e"
+          style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
       </a>
     </td>
+  </tr>
+
+  <tr>
+    <th colspan="2">A.R.M. Bot Adventure</th>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <strong style="font-size:1.2rem;">Killer on Board</strong><br/>
-      <a href="https://deadpiegamer.itch.io/killer-on-board">
-        <img src="https://github.com/user-attachments/assets/920ab101-885a-43bc-8319-4fee908c2776" 
-             style="width:90%;height:auto;border-radius:8px;margin-top:5px;" 
-             alt="Killer On Board"/>
-      </a>
+      <a href="https://deadpiegamer.itch.io/arm-bot">
+        <img src="https://github.com/user-attachments/assets/a3b8e13b-54f0-493e-a9fe-3bc47ed61ac5"
+           style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
     </td>
-    <td></td> <!-- Empty cell to keep layout 2 per row -->
+    <td align="center" width="50%">
+      <a href="https://deadpiegamer.itch.io/arm-bot">
+        <img src="https://github.com/user-attachments/assets/f5220ade-6eba-4c02-af8e-fbde496b4062"
+           style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
+    </td>
   </tr>
+
+  <tr>
+    <th colspan="2">Killer On Boards</th>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://deadpiegamer.itch.io/killer-on-board">
+        <img src="https://github.com/user-attachments/assets/920ab101-885a-43bc-8319-4fee908c2776"
+           style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
+    </td>
+    <td align="center" width="50%">
+      <a href="https://deadpiegamer.itch.io/killer-on-board">
+        <img src="https://github.com/user-attachments/assets/539ac01f-c70d-47c9-a961-14fd1462c03e"
+           style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="2">FingerSpelling</th>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/5cd48bb6-dbaf-4cca-85b0-2912b8768ee9"
+           style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/5c2c554c-e475-4703-8e8f-6f1e65ace138"
+           style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
+    </td>
+  </tr>
+
 </table>
+
+
+
 
 ---
 
