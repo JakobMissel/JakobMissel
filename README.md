@@ -74,7 +74,7 @@ Hello! I am passionate about game development and research. In development, I am
   </tr>
 
   <tr>
-    <th colspan="2"><h3>Killer On Boards (<a href="https://deadpiegamer.itch.io/killer-on-board">Itch</a> / <a href="https://github.com/deadlap/P606">Github</a>)</h3></th>
+    <th colspan="2"><h3>Killer On Board (<a href="https://deadpiegamer.itch.io/killer-on-board">Itch</a> / <a href="https://github.com/deadlap/P606">Github</a>)</h3></th>
   </tr>
   <tr>
     <td align="center" width="50%">
